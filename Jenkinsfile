@@ -1,9 +1,9 @@
 pipeline {
-    agent {
-    stages {
+    agent any{
+       stages {
         stage('build') {
             steps {
-                sh 'mvn --version'
+                echo 'built application successfully'
             }
         }
     }
