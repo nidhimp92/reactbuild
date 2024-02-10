@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React New Push to Git
+          Learn React New Push to Git after token
         </a>
       </header>
     </div>
